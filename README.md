@@ -35,5 +35,3 @@ In addition to the projects in this repository, check out my [CodePen](https://w
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and projects for personal or educational purposes.
-
-If you have any questions or suggestions, feel free to reach out to me. Happy coding!
